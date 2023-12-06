@@ -16,3 +16,10 @@
 
 # step 2
 ![NIKHIL](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Nikhil-coder390/assets/117470300/b9643907-79ee-475f-9a0c-99889f673e3e)
+
+
+# step 3 
+```
+$ git add .
+add all the files to repo
+```
