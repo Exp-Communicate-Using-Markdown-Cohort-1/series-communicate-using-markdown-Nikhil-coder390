@@ -12,3 +12,7 @@
 #### <h4>helloo</h4>
 ##### <h5>hello</h5>
 ###### <h6>hiii</h6>
+
+
+# step 2
+![NIKHIL](https://github.com/Exp-Communicate-Using-Markdown-Cohort-1/series-communicate-using-markdown-Nikhil-coder390/assets/117470300/b9643907-79ee-475f-9a0c-99889f673e3e)
