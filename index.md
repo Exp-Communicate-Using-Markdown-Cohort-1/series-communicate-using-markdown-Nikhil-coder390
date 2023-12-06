@@ -23,3 +23,8 @@
 $ git add .
 add all the files to repo
 ```
+
+# step 4
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
